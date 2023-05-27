@@ -185,7 +185,7 @@ fi
 #     printf "\n%s\n" "${delimiter}"
 #     printf "python venv already activate: ${VIRTUAL_ENV}"
 #     printf "\n%s\n" "${delimiter}"
-fi
+# fi
 
 # Try using TCMalloc on Linux
 prepare_tcmalloc() {
